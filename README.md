@@ -36,5 +36,5 @@ An AI-based tutoring web app for step-by-step explanations in math, programming,
 ```bash
 # example
 pip install -r requirements.txt
-python learnloop.app  
+python learnloop.py  
 
